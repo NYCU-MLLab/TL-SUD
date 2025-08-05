@@ -4,6 +4,6 @@
 - NVIDIA GPU
 
 ## Conda / Pip
-
 ```bash
 conda create --name nemo python==3.10.12
+pip install "nemo_toolkit[asr]"

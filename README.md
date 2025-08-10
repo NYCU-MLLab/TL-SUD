@@ -8,7 +8,7 @@
 conda create --name nemo python==3.10.12
 pip install "nemo_toolkit[asr]"
 ```
-## training
+## Training
 ```bash
 python speech_to_text_tlo.py
 python tlsud_post.py
